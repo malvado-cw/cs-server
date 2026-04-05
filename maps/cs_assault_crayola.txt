@@ -1,0 +1,24 @@
+cs_assault_crayola - Hostage Rescue
+by Plaxic (Xfire username: plaxic)
+Ideas by Crayola, my friend
+[This is my 5th map] - Created 10/14/07
+
+Based on cs_assault by CryptR (lmuur@dlc.fi)
+
+Changes from cs_assault:
+
+-Middle Tower is accessible by ladder
+-Top floor of Middle Tower is open
+-Extra containers outside with giant Crayon
+-Small vent at side of warehouse leads to red box
+-A few extra ladders and crates
+-Vent from fence area to hostage room
+-Tierheim-style ledge near back door
+-A Vent leads up to this ledge
+-Ledge leads inside to ramp area
+-Extra room above back door with windows and door
+-This leads to blue container through hole
+-Blue container accessible by rope ladder
+-Vent has 3rd exit onto catwalk by ladder-ramp
+-Hostage room is restyled
+-2 Crayola logos in map

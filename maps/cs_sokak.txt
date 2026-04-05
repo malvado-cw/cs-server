@@ -1,0 +1,15 @@
+Sokak - Hostage Rescue
+Mapping by:
+[DSS] GolferDJ (golferdj@yahoo.com)
+Textures by:
+Crinity & Madcross (www.planethalflife.com/crinity/)
+
+Counter-Terrorists: Navigate your way
+around the Turkish city and save the
+Hostages from the Terrorists.
+
+Terrorists: Prevent the Counter-Terrorists
+from rescuing the Hostages or eliminate
+the Counter-Terrorists.
+
+(Press FIRE to continue)

@@ -1,0 +1,68 @@
+Counter-Strike Map
+
+-------------------------------------------------------------------------------
+
+Title         :   CS_175bikini
+File name     :   cs_175bikini.zip
+Game type     :   Hostage rescue
+Mapping       :   bh@naffware.fsnet.co.uk
+Textures      :   Xtender www.fuchtelworld.de
+Models        :   Gabor http://gabor.cs-fusion.com
+Release Date  :   March 2003
+
+
+-------------------------------------------------------------------------------
+
+Installing
+----------
+Unzip into the \Cstrike folder with "Use Folder/Path Names" on.
+
+There are two female hostage models and sounds that replace the default hostage.mdl,
+scientist.mdl and HOSx.WAV files, installing these files is optional. You may want
+to backup the original model and sound files first before overwriting them.
+
+PODbot
+------
+The PODbot v2.x .PWF waypoint file goes in \Cstrike\Podbot\Wptdefault
+
+
+-------------------------------------------------------------------------------
+
+Story
+-----
+175 Bikini Drive is the Bikini Hangout HQ where its employees work and play.
+It is also used as a photoshoot location for their super models (wish i could
+work there :-) ), during one the photoshoots it is overrun by terrorists
+who take the super models hostage.
+
+
+Information
+-----------
+Hostage rescue map based on a mansion scenario for a Bikini Hangout mapping
+contest - http://www.bikinihangout.com
+in conjunction with CS Central - http://www.cscentral.com
+
+AFAIK a female CT+T skin pack was supposed to be produced by CSC for the
+competition, it'll be on the CSC or Bikini Hangout sites.
+
+
+Notes
+-----
+There are some areas on tops of walls that have r_speeds that are higher than
+I would like, these areas could've been blocked off but have been left in to
+give players more options. 
+
+PODbots nav most of the map ok, the area around the gazebo(?) thingy was a
+compromise - couldn't put a camp waypoint inside it as bots that got onto the
+roof tried to get to it by going thru' the roof and got stuck :(
+
+
+-------------------------------------------------------------------------------
+
+Distribution, Copyright and Legal Garbage
+-----------------------------------------
+BikiniHangout.com and CSCentral.com are granted permission by the Authors to
+distribute this software for non-commercial purposes only. All software is
+copyright(c)2003 C Wright, all rights reserved, yadda, yadda, yadda...
+
+
