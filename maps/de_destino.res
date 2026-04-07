@@ -1,0 +1,21 @@
+// Resources description file for de_destino level
+gfx/env/ddsrup.tga
+gfx/env/ddsrdn.tga
+gfx/env/ddsrlf.tga
+gfx/env/ddsrrt.tga
+gfx/env/ddsrft.tga
+gfx/env/ddsrbk.tga
+maps/de_destino.res
+maps/de_destino.nav
+maps/de_destino_detail.txt
+maps/de_destino.txt
+models/nrm_1.mdl
+models/nrm_2.mdl
+models/nrm_3.mdl
+models/nrm_4.mdl
+sound/ambience/nrs_1.wav
+overviews/de_destino.txt
+overviews/de_destino.bmp
+gfx/detail/dt_stone1.tga
+gfx/detail/dt_ground2.tga
+gfx/detail/dt_conc.tga

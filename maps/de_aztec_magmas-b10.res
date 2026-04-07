@@ -1,0 +1,16 @@
+gfx/env/magmasbk.tga
+gfx/env/magmasdn.tga
+gfx/env/magmasft.tga
+gfx/env/magmaslf.tga
+gfx/env/magmasrt.tga
+gfx/env/magmasup.tga
+models/de_dust2_magmas/dod_jagd_car2.mdl
+models/de_dust2_magmas/gins_oak2.mdl
+sound/de_dust2_magmas/fond-csm.wav
+sound/de_dust2_magmas/lave.wav
+sound/de_dust2_magmas/tonnere.wav
+sprites/de_dust2_magmas/eclair.spr
+sprites/de_dust2_magmas/fire.spr
+sprites/de_dust2_magmas/flames.spr
+sprites/de_dust2_magmas/megalodon.spr
+maps/de_aztec_magmas-b10.res

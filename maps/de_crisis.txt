@@ -1,0 +1,13 @@
+Crisis - Bomb/Defuse
+By Markus A (ectarget@hotmail.com)
+Textures by Macman
+
+Story: The town is under siege. 
+And the terrorists are going to destroy
+the two planted fuel-tanks.
+
+Counter-Terrorists: Stop the terrorists 
+before they reach the tanks.
+
+Terrorists: Find the targeted areas and plant the c4.
+

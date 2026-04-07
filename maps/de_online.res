@@ -1,0 +1,25 @@
+// de_hell2_rc1.res
+halflife.wad
+cstrike.wad
+cs_havana.wad
+de_airstrip.wad
+de_piranesi.wad
+decals.wad
+chateau.wad
+torntextures.wad
+gfx/env/greenup.tga
+gfx/env/greendn.tga
+gfx/env/greenlf.tga
+gfx/env/greenrt.tga
+gfx/env/greenft.tga
+gfx/env/greenbk.tga
+models/pi_fern.mdl
+sprites/ikgrass1.spr
+sprites/ikgrass2.spr
+sprites/ikgrass3.spr
+sprites/grass_03.spr
+sprites/grass_01.spr
+models/pi_outlamp1.mdl
+sprites/glow01.spr
+overviews/de_online.bmp
+overviews/de_online.txt

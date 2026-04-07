@@ -1,0 +1,13 @@
+▬▬▬▬▬▬▬▬▬▬▬▬MAIN INFO▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Map				: de_dust2_santorini_b2 
+Origin map		: de_dust2
+Author			: xZenon 
+▬▬▬▬▬▬▬▬▬▬▬▬CONTACTS▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Steam			: Steamcommunity.com/id/xZenon
+Official Site	: xZenon-MAPS.INFO
+▬▬▬▬▬▬▬▬▬▬▬▬RESOURCES▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Textures		: NEXON Korea Corp. /
+Sky				: NEXON Korea Corp.	/
+Models			: NEXON Korea Corp.	/ Others
+Sounds			: NEXON Korea Corp.
+Sprites			: DimeX

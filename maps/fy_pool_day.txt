@@ -1,0 +1,18 @@
+Map: fy_poo_day
+Tradução: Dia de Luta no Banheiro
+
+[ REGRAS DO MAPA ]
+1. Sem choradeira (Sem Stress).
+2. O objetivo é eliminar o time adversário.
+3. Armas estão espalhadas pelo chão ou na base.
+
+[ INFO DO SERVIDOR ]
+Server: BRASIL 4FUN • SEM STRESS
+Contato: 45999632633
+Config: M么LV么D0^HS 2026 Otimizada
+
+[ DICAS ]
+- Mapas FY não possuem objetivos de bomba (C4) ou reféns.
+- A faca também mata, mas o tiro é mais garantido!
+
+Divirta-se e bom jogo!

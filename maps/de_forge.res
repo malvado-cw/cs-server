@@ -1,0 +1,15 @@
+gfx/env/trainyardup.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardbk.tga
+ models/de_forge/forge_tree1.mdl
+models/de_forge/forge_fern1.mdl
+models/de_forge/forge_tree3.mdl
+models/de_forge/forge_tree2.mdl
+models/de_forge/forge_truck.mdl
+sprites/blueflare1.spr
+sprites/redflare2.spr
+overviews/de_forge.bmp
+overviews/de_forge.txt

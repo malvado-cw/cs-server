@@ -1,0 +1,12 @@
+global
+{
+ZOOM 1.52
+ORIGIN 138.69 401.06 544
+ROTATED 0
+}
+
+layer
+{
+IMAGE "overviews/de_agrena.bmp"
+HEIGHT -385
+} 

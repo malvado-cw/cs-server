@@ -1,0 +1,14 @@
+// overview description file for de_kalt.bsp
+
+global
+{
+      ZOOM          1.75
+      ORIGIN       -402.94    1661.69    989.00
+      ROTATED       1
+}
+
+layer 
+{
+       IMAGE       "overviews/de_kalt.bmp"
+       HEIGHT       320
+}

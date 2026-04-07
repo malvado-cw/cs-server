@@ -1,0 +1,13 @@
+// overview description file for de_rocinha.bsp
+global
+{
+ZOOM 1.84
+ORIGIN 1294 1178 243
+ROTATED 1
+}
+
+layer
+{
+IMAGE “overviews/de_rocinha.bmp”
+HEIGHT 0
+}

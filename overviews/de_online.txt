@@ -1,0 +1,14 @@
+// overview description file for de_online.bsp
+
+global 
+{
+	ZOOM	1.75
+	ORIGIN	306.06 	748.00	168.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_online.bmp"
+	HEIGHT	168.00
+}

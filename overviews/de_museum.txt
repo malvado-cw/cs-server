@@ -1,0 +1,14 @@
+// overview description file for de_museum.bsp
+
+global 
+{
+	ZOOM	1.66
+	ORIGIN	-385 135 -2112
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_museum.bmp"
+	HEIGHT	-2112
+}
