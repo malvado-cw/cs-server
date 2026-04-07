@@ -1,0 +1,28 @@
+L 03/04/2026 - 01:05:52: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 03/04/2026 - 01:05:58: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 03/04/2026 - 01:37:20: (map "de_dust2") Mod_LoadModel: models/backweapons.mdl not found
+L 03/04/2026 - 10:01:46: (map "de_dust2") Mod_LoadModel: models/player/admin_ct/admin_ct.mdl not found
+L 03/04/2026 - 10:02:27: (map "de_dust2") Mod_LoadModel: models/player/admin_ct/admin_ct.mdl not found
+L 03/04/2026 - 11:49:22: (map "de_dust2") Mod_LoadModel: models/player/leet/leet.mdl not found
+L 03/04/2026 - 11:49:36: (map "de_dust2") Mod_LoadModel: models/player/vip/vip.mdl not found
+L 03/04/2026 - 11:50:18: (map "de_dust2") Mod_LoadModel: models/player/vip/vip.mdl not found
+L 03/04/2026 - 11:56:34: (map "de_dust2") Mod_LoadModel: models/player/leet/leet.mdl not found
+L 03/04/2026 - 11:57:06: (map "de_dust2") Mod_LoadModel: models/player/vip/vip.mdl not found
+L 03/04/2026 - 16:57:47: (map "de_dust2") Host_Error: PF_precache_sound_I_internal: Bad string ''
+
+L 03/04/2026 - 17:40:50: (map "fy_pool_day") Mod_LoadModel: models/player/coringa_ct_azul/coringa_ct_azul.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 05/04/2026 - 13:05:06: (map "de_chateau") Mod_LoadModel: models/v_flashbang.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 05/04/2026 - 13:09:14: (map "fy_pool_day") Mod_LoadModel: models/v_m4a1.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 05/04/2026 - 14:12:23: (map "de_inferno") Mod_LoadModel: models/v_awp.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 05/04/2026 - 15:49:12: (map "fy_pool_day") Mod_LoadModel: models/backweapons.mdl not found
+L 05/04/2026 - 15:49:57: (map "fy_pool_day") Mod_LoadModel: models/backweapons.mdl not found
+L 05/04/2026 - 15:52:22: (map "fy_pool_day") Mod_LoadModel: models/w_kevlar.mdl not found
+L 06/04/2026 - 23:34:39: (map "de_barcelona") TEX_InitFromWad: couldn't open de_barcelona.wad
+
+L 06/04/2026 - 23:42:06: (map "de_sampa_beta6") Host_Error: ED_ParseEdict: Model '*244' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+

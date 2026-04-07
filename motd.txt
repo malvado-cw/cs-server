@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>M么LV么D0^HS Server</title>
+
+<style type="text/css">
+
+body {
+    background: #000;
+    margin: 8px;
+    color: #39FF14;
+    font: normal 8px/16px Verdana, Tahoma, sans-serif;
+}
+
+h2 {
+    color: #00FFFF;
+    text-shadow: 0 0 10px #00FFFF;
+}
+
+p {
+    color: #39FF14;
+}
+
+</style>
+</head>
+
+<body>
+
+<center>
+
+<h2><b>Bem-vindo ao servidor<h2><b>
+<h2><b>M么LV么D0^HS</b></h2>
+
+<p><b>
+Prepare-se para entrar em um campo de batalha sem piedade.
+</b></p>
+
+<p><b><i>
+Aqui, apenas os mais rápidos sobrevivem...<br>
+e os mais frios dominam.
+</i></b></p>
+
+<hr style="border: 1px solid #00FFFF; width: 60%;">
+
+<p><i>
+ Mostre sua habilidade... ou desapareça.
+</i></p>
+
+</center>
+
+</body>
+</html>
