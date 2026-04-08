@@ -1,0 +1,10 @@
+c_stone1	detail/brick	4.0	4.0
+snow		detail/snow	8.0	8.0
+lv_marble	detail/rock	4.0	4.0
+w_rock_snowy_01	detail/rock	4.0	4.0
+{fence2		detail/metal	8.0	8.0
+{grid2		detail/metal	8.0	8.0
+{tanne		detail/grass2	8.0	8.0
++0~light5a	detail/smooth1	8.0	8.0
++a~light5a	detail/smooth1	8.0	8.0
+

@@ -1,0 +1,28 @@
+
+-0csSandWall 		detail/dt_stone1		5.0		10.0
+-0Sand			detail/dt_ground2		10.0		10.0
+-1csSandWall 		detail/dt_stone1		5.0		10.0
+-1Sand			detail/dt_ground2		10.0		10.0
+-2Sand			detail/dt_ground2		10.0		10.0
+-3Sand			detail/dt_ground2		10.0		10.0
+SandWllWndw		detail/dt_stone1		4.0		8.0
+SandTrim		detail/dt_stone1		10.0		3.0
+SandRoad		detail/dt_ground2		10.0		10.0
+MltryCrteSd		detail/dt_metal2		10.0		10.0
+MltryCrteSd2		detail/dt_metal2		10.0		10.0
+SandCCrete		detail/dt_stone4		10.0		10.0
+SandCrtLrgSd		detail/dt_wood1 			7.0		7.0
+SandCrtSmSd		detail/dt_wood1 			7.0		7.0
+{ladder2b detail/dt_metal2 			8.0		8.0
+{logos01 detail/dt_smooth1		8.0		8.0
+{korolevlogo  detail/dt_smooth1		8.0		8.0
+{playerchip detail/dt_smooth1		8.0		8.0
++0~pic1 detail/dt_smooth1		8.0		8.0
++0~tnnl_lgt3 detail/dt_smooth1		8.0		8.0
++a~tnnl_lgt3 detail/dt_smooth1		8.0		8.0
+fifties_dr6a detail/dt_wood1		8.0		8.0
+
+
+
+
+

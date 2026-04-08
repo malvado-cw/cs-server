@@ -1,0 +1,39 @@
+// Detail texture map file for de_nmramelle level
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+
+{nmspr_cafeshit		detail/plaster2		10.0		10.0
+{nmspr_hanger		detail/smooth1		10.0		10.0
+cc_whitewall1		detail/plaster1		10.0		10.0
+ccb_dirt1		detail/ground1		10.0		10.0
+ccb_floor2		detail/wood 		10.0		10.0
+in_window4		detail/metal 		5.0		5.0
+nm_ha_floor2		detail/wood 		10.0		10.0
+nme_floor1		detail/smooth1		10.0		10.0
+nmspr_bri1		detail/stone1		10.0		10.0
+nmspr_briwall		detail/stone1		10.0		10.0
+nmspr_dirtgrass		detail/ground1		10.0		10.0
+nmspr_inwall1		detail/smooth1		10.0		10.0
+nmspr_inwall2		detail/smooth1		10.0		10.0
+nmspr_inwall3		detail/smooth1		10.0		10.0
+nmspr_inwall4		detail/smooth1		10.0		10.0
+nmspr_redwin1		detail/conc		10.0		10.0
+nmspr_redwin2		detail/conc		10.0		10.0
+nmspr_redwin2a		detail/conc		10.0		10.0
+nmspr_rivwall		detail/stone1		10.0		10.0
+nmspr_rub1		detail/rough1		10.0		10.0
+nmspr_rub2		detail/rough1		10.0		10.0
+nmspr_sandb1		detail/fabric1 		5.0		5.0
+nmspr_suze		detail/plaster2		10.0		10.0
+nmspr_wall1		detail/conc		10.0		10.0
+nmspr_wall1a		detail/conc		10.0		10.0
+nmspr_wall2		detail/conc		10.0		10.0
+nmspr_whitwin1		detail/plaster1		10.0		10.0
+nmspr_win1		detail/metal 		5.0		5.0
+out_stones1		detail/stone1		10.0		10.0
+pi_wood			detail/wood 		10.0		10.0
+tk_greybrick		detail/stone2		10.0		10.0
+tk_greyroof		detail/wood 		10.0		10.0
+tk_stonefl		detail/stone1		10.0		10.0
+wall_brick1		detail/brickk		10.0		10.0
+

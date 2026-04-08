@@ -1,0 +1,16 @@
+-0out_crt2a	detail/conc	8.0	8.0
+-1out_crt2a	detail/conc	8.0	8.0
+-2out_crt2a	detail/conc	8.0	8.0
+-3out_crt2a	detail/conc	8.0	8.0
+-4out_crt2a	detail/conc	8.0	8.0
+out_roof1	detail/metal	8.0	8.0
+out_roof2	detail/metal	8.0	8.0
+out_roof3	detail/metal	8.0	8.0
+-1out_grss1	detail/grs	1.0	1.0
+-0out_grss1	detail/grs	1.0	1.0
+-2out_grss1	detail/grs	1.0	1.0
+
+
+
+
+

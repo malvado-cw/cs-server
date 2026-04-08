@@ -1,0 +1,26 @@
+~light5a	detail/smooth1	8.0	8.0
+chair		detail/smooth1	8.0	8.0
+floor		detail/smooth1	16.0	16.0
+floor_tileblue	detail/smooth1	2.0	2.0
+glassblue1	detail/smooth1	20.0	20.0
+locker		detail/metal	8.0	16.0
+lockerside	detail/metal	8.0	8.0
+nocrap		detail/smooth1	8.0	8.0
+poolrules	detail/smooth1	16.0	16.0
+SandCrtLrgSd	detail/wood	4.0	4.0
+shower		detail/metal	4.0	4.0
+stallred	detail/smooth1	8.0	8.0
+steel		detail/metal	8.0	8.0
+tile3		detail/smooth1	4.0	12.0
+tile		detail/smooth1	4.0	4.0
+tilefloor_red	detail/smooth1	2.0	2.0
+tilemini_blue	detail/smooth1	16.0	16.0
+tilemini_red	detail/smooth1	16.0	16.0
+wal_walltile	detail/smooth1	6.0	16.0
+wall_tileBlue	detail/smooth1	6.0	16.0
+wall_tileRed	detail/smooth1	6.0	16.0
+walmart_blue	detail/smooth1	6.0	6.0
+white		detail/smooth1	8.0	8.0
+window		detail/smooth1	4.0	8.0
+
+

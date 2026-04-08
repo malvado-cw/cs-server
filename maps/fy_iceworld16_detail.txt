@@ -1,0 +1,3 @@
+c_stone1	detail/brick	4.0	4.0
+snow		detail/snow	8.0	8.0
+lv_marble	detail/rock	4.0	4.0
