@@ -26,3 +26,44 @@ L 06/04/2026 - 23:34:39: (map "de_barcelona") TEX_InitFromWad: couldn't open de_
 L 06/04/2026 - 23:42:06: (map "de_sampa_beta6") Host_Error: ED_ParseEdict: Model '*244' failed to precache because the item count is over the 512 limit.
 Reduce the number of brush models and/or regular models in the map to correct this.
 
+L 07/04/2026 - 19:31:01: (map "cs_havana") Host_Error: ED_ParseEdict: Model '*237' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 07/04/2026 - 19:31:52: (map "cs_havana") Host_Error: ED_ParseEdict: Model '*237' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 07/04/2026 - 19:57:29: (map "de_cevo_arsenal") Host_Error: ED_ParseEdict: Model '*237' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 07/04/2026 - 20:00:39: (map "de_crisis") Host_Error: ED_ParseEdict: Model '*237' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 07/04/2026 - 20:07:36: (map "de_eldorado") Mod_LoadModel: models/cuca/watertower2.mdl not found
+L 07/04/2026 - 20:12:51: (map "de_kabul_cz") Mod_LoadModel: models/de_kabul_cz/truck.mdl not found
+L 07/04/2026 - 20:15:44: (map "de_kalt") Host_Error: ED_ParseEdict: Model '*235' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 07/04/2026 - 20:18:35: (map "de_museum") Host_Error: ED_ParseEdict: Model '*236' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 07/04/2026 - 20:27:07: (map "de_online") Host_Error: ED_ParseEdict: Model '*234' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 07/04/2026 - 20:29:43: (map "de_piranesi") Host_Error: ED_ParseEdict: Model '*227' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 07/04/2026 - 20:33:08: (map "de_rocinha") Mod_LoadModel: models/fav_tde/skla_roofstuff01.mdl not found
+L 07/04/2026 - 20:34:13: (map "de_roma") TEX_InitFromWad: couldn't open radio.wad
+
+L 07/04/2026 - 20:35:07: (map "de_romania") TEX_InitFromWad: couldn't open as_rising_sun.wad
+
+L 07/04/2026 - 20:43:22: (map "de_sampa_beta6") Host_Error: ED_ParseEdict: Model '*233' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 07/04/2026 - 20:47:09: (map "de_torn") Host_Error: ED_ParseEdict: Model '*232' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 07/04/2026 - 20:48:23: (map "de_torn_cz") Host_Error: ED_ParseEdict: Model '*232' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 07/04/2026 - 20:56:35: (map "de_zima") Mod_LoadModel: models/de_zima/snow_grass.mdl not found

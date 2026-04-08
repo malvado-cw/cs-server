@@ -1,9 +1,0 @@
-gfx/env/cstutnup.tga
-gfx/env/cstutndn.tga
-gfx/env/cstutnlf.tga
-gfx/env/cstutnrt.tga
-gfx/env/cstutnft.tga
-gfx/env/cstutnbk.tga
-models/de_zima/snow_grass.mdl
-overviews/de_zima.txt
-overviews/de_zima.bmp
