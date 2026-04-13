@@ -67,3 +67,11 @@ L 07/04/2026 - 20:48:23: (map "de_torn_cz") Host_Error: ED_ParseEdict: Model '*2
 Reduce the number of brush models and/or regular models in the map to correct this.
 
 L 07/04/2026 - 20:56:35: (map "de_zima") Mod_LoadModel: models/de_zima/snow_grass.mdl not found
+L 08/04/2026 - 18:53:30: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 08/04/2026 - 18:53:38: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 11/04/2026 - 11:10:49: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 11/04/2026 - 11:11:04: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 11/04/2026 - 15:42:31: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 11/04/2026 - 15:42:38: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 11/04/2026 - 15:42:44: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 11/04/2026 - 15:42:49: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
